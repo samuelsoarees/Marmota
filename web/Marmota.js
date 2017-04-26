@@ -1,4 +1,6 @@
-
+function inicializa(){
+    createCookieRandon()
+}
 function createCookieRandon(){
     var alturaJanela = window.innerHeight;
     var larguraJanela = window.innerWidth;
