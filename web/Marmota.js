@@ -26,3 +26,9 @@ function createCookieRandon(){
     document.body.appendChild(cookie);
     
 }
+
+/*no metodo de clique é so colocar 
+ *  var pontuacao = 0;
+ *  pontuacao +=1;
+         $('#pontuacao').html("Pontos: "+pontuacao); 
+ */
